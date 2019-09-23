@@ -1,5 +1,5 @@
 title:            
-description:      Describe your website here.
+description:      The Noraoken Blog
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,10 +9,10 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your name
+  name:           Brian Nguyen
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Dedicated Computer Science student && Aspired Creative Trailblazer."
+  email:          brianlnguyen2000@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
