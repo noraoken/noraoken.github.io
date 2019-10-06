@@ -4,6 +4,9 @@ title: Hello World!
 description: "An introduction to the blog"
 modified: 2019-10-04
 tags:
+image:
+  path: /images/hello_world_banner.jpg
+  feature: hello_world_banner.jpg
 ---
 
 ##### (I am currently writing this while sneaking in a physics lecture about rotational energy.)
