@@ -28,3 +28,4 @@ I will slash this bug if it's the last thing I do <(  `^')>
 
 ##### In Development: title logo design
 
+#### edit: images on public server and post archive not showing
