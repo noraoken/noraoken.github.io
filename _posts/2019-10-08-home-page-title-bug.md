@@ -17,8 +17,8 @@ image:
     Siri:
   </figcaption> 
   <br>
-  <img src="images/Index_Title_LocalHost.jpg" alt="">
-	<img src="images/Index_Title_HostError.jpg" alt="">
+  <img src="images/Index_Title_LocalHost.JPG" alt="Title Image on Local Host">
+	<img src="images/Index_Title_HostError.JPG" alt="Title Image on Public Host With Error">
 	 
 </figure>
 
