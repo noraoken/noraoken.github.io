@@ -17,8 +17,8 @@ image:
     Siri:
   </figcaption> 
   <br>
-  <img src="images/Index_Title_LocalHost.JPG" alt="Title Image on Local Host">
-	<img src="images/Index_Title_HostError.JPG" alt="Title Image on Public Host With Error">
+  <img src="./images/Index_Title_LocalHost.JPG" alt="Title Image on Local Host">
+	<img src="./images/Index_Title_HostError.JPG" alt="Title Image on Public Host With Error">
 	 
 </figure>
 
@@ -28,3 +28,4 @@ I will slash this bug if it's the last thing I do <(  `^')>
 
 ##### In Development: title logo design
 
+#### edit: images on public server and post archive not showing
